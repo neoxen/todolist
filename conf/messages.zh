@@ -1,0 +1,41 @@
+home.title=待办事项
+
+form.create=新建
+form.delete=删除
+
+task=待办事项
+Task=待办事项
+tasks=待办事项
+Tasks=待办事项
+label=标签
+Label=标签
+labels=标签
+Labels=标签
+
+task.new=新建待办事项
+task.list=待办事项列表
+
+# Default messages
+
+# --- Constraints
+constraint.required=必填
+constraint.min=最小值: {0}
+constraint.max=最大值: {0}
+constraint.minLength=最短: {0}
+constraint.maxLength=最长: {0}
+constraint.email=Email
+
+# --- Formats
+format.date=Date (''{0}'')
+format.numeric=Numeric
+
+# --- Errors
+error.invalid=非法数值
+error.required=必填项
+error.number=只能填写数字
+error.min=必须大于等于 {0}
+error.max=必须小于等于 {0}
+error.minLength=最小长度为 {0}
+error.maxLength=最大长度为 {0}
+error.email=邮箱格式不正确
+error.pattern=必须满足 {0}
